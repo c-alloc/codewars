@@ -1,10 +1,9 @@
 fn main() {
-    println!("Hello, world!");
     //multiply(20,20);
     //assert_eq!(solution(10), 23);
     //digital_root(1872);
-    assert_eq!(sort_array(&[5, 3, 2, 8, 1, 4]), [1, 3, 2, 8, 5, 4]);
-    assert_eq!(sort_array(&[5, 3, 1, 8, 0]), [1, 3, 5, 8, 0]);
+    //assert_eq!(sort_array(&[5, 3, 2, 8, 1, 4]), [1, 3, 2, 8, 5, 4]);
+    assert_eq!(sort_array(&[47, 4, 13, 5]), [5, 4, 13, 47]);
     assert_eq!(sort_array(&[]), []);
 }
 
@@ -60,13 +59,8 @@ fn spliting(x: i64) -> Vec<i64> {
 //d4
 
 fn sort_array(arr: &[i32]) -> Vec<i32> {
-    for i in arr {
-        if (i % 2) != 0 {
-            let index = arr.iter().position(|n| n == i).unwrap();
-            println!("{}", index);
-        }
-    }
+    // '-'
     todo!();
-}
+} 
 
 //d5
