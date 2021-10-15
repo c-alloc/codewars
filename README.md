@@ -1,8 +1,8 @@
-Code Wars stuff archives
+##Code Wars stuff archives
 
-This is a repository to storage my code wars solved problems, mostly using Rust and Python.
+This is a repository to storage my code wars solved problems, mostly using Rust and some other languages maybe? well, i really like rust :p.
 
-Multiples of 3 or 5
+###[Multiples of 3 or 5](https://github.com/dertera/codewars-archives/tree/main/Multiples-3-or-5)
 
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
@@ -10,7 +10,7 @@ Finish the solution so that it returns the sum of all the multiples of 3 or 5 be
 
 Note: If the number is a multiple of both 3 and 5, only count it once.
 
-Sum of Digits / Digital Root
+###Sum of Digits / Digital Root
 
 Given n, take the sum of the digits of n. If that value has more than one digit, continue reducing in this way until a single-digit number is produced. The input will be a non-negative integer. 
 
@@ -22,7 +22,7 @@ Examples
 493193  -->  4 + 9 + 3 + 1 + 9 + 3 = 29  -->  2 + 9 = 11  -->  1 + 1 = 2
 
 
-Square(n) Sum
+###Square(n) Sum
 
 Complete the square sum function so that it squares each number passed into it and then sums the results together.
 
