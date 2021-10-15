@@ -2,6 +2,8 @@
 
 This is a repository to storage my code wars solved problems, mostly using Rust and some other languages maybe? well, i really like rust :p.
 
+[My codewars profile](https://www.codewars.com/users/dertera)
+
 ### Multiples of 3 or 5
 
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.

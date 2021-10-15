@@ -1,6 +1,5 @@
 use std::collections::BTreeMap;
 
-// alternative way using hashmap but fails when you need a ordering by insetion
 fn stock_list(list_art: Vec<&str>, list_cat: Vec<&str>) -> String {
     let mut obj: BTreeMap<String, i32> = BTreeMap::new();
     let mut books = format!("");
