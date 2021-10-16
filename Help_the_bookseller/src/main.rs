@@ -4,7 +4,7 @@ fn stock_list(list_art: Vec<&str>, list_cat: Vec<&str>) -> String {
     let mut obj: BTreeMap<String, i32> = BTreeMap::new();
     let mut books = format!("");
 
-    if list_art.len() != 0 || list_cat.len() == 0 {
+    if list_art.len() != 0 && list_cat.len() != 0 {
         for keys in &list_cat {
             obj.insert(keys.to_string(), 0);
         }
