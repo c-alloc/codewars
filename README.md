@@ -18,3 +18,5 @@ This is a repository to storage my code wars solved problems, mostly using Rust 
 4. [Help the bookseller!](https://github.com/dertera/codewars-archives/tree/main/Help_the_bookseller)
 
 5. [Create Phone number](https://github.com/dertera/codewars-archives/tree/main/create_phone_number)
+
+6. [RGB to HEX conversion](https://github.com/dertera/codewars-archives/tree/main/RGB_to_HEX)
