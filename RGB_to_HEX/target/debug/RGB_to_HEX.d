@@ -1,0 +1,1 @@
+/home/tera/Documents/Projects/codewars-stuffs/RGB_to_HEX/target/debug/RGB_to_HEX: /home/tera/Documents/Projects/codewars-stuffs/RGB_to_HEX/src/lib.rs /home/tera/Documents/Projects/codewars-stuffs/RGB_to_HEX/src/main.rs
