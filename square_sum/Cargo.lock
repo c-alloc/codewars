@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Square-Sum"
+name = "square_sum"
 version = "0.1.0"

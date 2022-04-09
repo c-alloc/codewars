@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Multiples-3-or-5"
+name = "multiples_3_5"
 version = "0.1.0"

@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "RGB_to_HEX"
+name = "rgb_hex"
 version = "0.1.0"

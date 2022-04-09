@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Digital-Root"
+name = "digital_root"
 version = "0.1.0"

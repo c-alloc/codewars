@@ -22,3 +22,5 @@ This is a repository to storage my code wars solved problems, mostly using Rust 
 6. [RGB to HEX conversion](https://github.com/dertera/codewars-archives/tree/main/rgb_hex)
 
 6. [What century is it](https://github.com/dertera/codewars-archives/tree/main/what_century_isit)
+
+7. [Sum of Two Integers](https://github.com/dertera/codewars-archives/tree/main/sum_integers)
