@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h99Pji7T0K8158AmDQqYsaFIw8AfPVu3iqCbamt4BRNL993carZo3fuC5FwuEpOdUIhyHlckjRMZXudaQlj2EQ==",
+  "success": true,
+  "projectFilePath": "/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/Solution.csproj",
+  "expectedPackageFiles": [
+    "/home/tera/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

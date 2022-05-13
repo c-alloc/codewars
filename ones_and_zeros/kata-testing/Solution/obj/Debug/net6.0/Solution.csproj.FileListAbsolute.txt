@@ -1,0 +1,12 @@
+/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/bin/Debug/net6.0/Solution.deps.json
+/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/bin/Debug/net6.0/Solution.dll
+/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/bin/Debug/net6.0/ref/Solution.dll
+/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/bin/Debug/net6.0/Solution.pdb
+/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/obj/Debug/net6.0/Solution.csproj.AssemblyReference.cache
+/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/obj/Debug/net6.0/Solution.GeneratedMSBuildEditorConfig.editorconfig
+/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/obj/Debug/net6.0/Solution.AssemblyInfoInputs.cache
+/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/obj/Debug/net6.0/Solution.AssemblyInfo.cs
+/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/obj/Debug/net6.0/Solution.csproj.CoreCompileInputs.cache
+/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/obj/Debug/net6.0/Solution.dll
+/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/obj/Debug/net6.0/ref/Solution.dll
+/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/obj/Debug/net6.0/Solution.pdb
