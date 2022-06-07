@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4c20oxoyxeMYhb8A5Rs8k0+tsMbcHwq2lqyvSIZLVBYLDh8ZehhhSNb8Vk8D83tVtwAN6dvnjMWBFKueU+KQCQ==",
+  "success": true,
+  "projectFilePath": "/home/rabbit/Documents/Projects/codewars/replace_position/kata-testing/Solution/Solution.csproj",
+  "expectedPackageFiles": [
+    "/home/rabbit/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

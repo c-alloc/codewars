@@ -1,0 +1,12 @@
+/home/rabbit/Documents/Projects/codewars/replace_position/kata-testing/Solution/bin/Debug/net6.0/Solution.deps.json
+/home/rabbit/Documents/Projects/codewars/replace_position/kata-testing/Solution/bin/Debug/net6.0/Solution.dll
+/home/rabbit/Documents/Projects/codewars/replace_position/kata-testing/Solution/bin/Debug/net6.0/ref/Solution.dll
+/home/rabbit/Documents/Projects/codewars/replace_position/kata-testing/Solution/bin/Debug/net6.0/Solution.pdb
+/home/rabbit/Documents/Projects/codewars/replace_position/kata-testing/Solution/obj/Debug/net6.0/Solution.csproj.AssemblyReference.cache
+/home/rabbit/Documents/Projects/codewars/replace_position/kata-testing/Solution/obj/Debug/net6.0/Solution.GeneratedMSBuildEditorConfig.editorconfig
+/home/rabbit/Documents/Projects/codewars/replace_position/kata-testing/Solution/obj/Debug/net6.0/Solution.AssemblyInfoInputs.cache
+/home/rabbit/Documents/Projects/codewars/replace_position/kata-testing/Solution/obj/Debug/net6.0/Solution.AssemblyInfo.cs
+/home/rabbit/Documents/Projects/codewars/replace_position/kata-testing/Solution/obj/Debug/net6.0/Solution.csproj.CoreCompileInputs.cache
+/home/rabbit/Documents/Projects/codewars/replace_position/kata-testing/Solution/obj/Debug/net6.0/Solution.dll
+/home/rabbit/Documents/Projects/codewars/replace_position/kata-testing/Solution/obj/Debug/net6.0/ref/Solution.dll
+/home/rabbit/Documents/Projects/codewars/replace_position/kata-testing/Solution/obj/Debug/net6.0/Solution.pdb
