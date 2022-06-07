@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/tera/.nuget/packages/": {}
+    "/home/rabbit/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/Solution.csproj",
+      "projectUniqueName": "/home/rabbit/Documents/Projects/codewars/ones_and_zeros/kata-testing/Solution/Solution.csproj",
       "projectName": "Solution",
-      "projectPath": "/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/Solution.csproj",
-      "packagesPath": "/home/tera/.nuget/packages/",
-      "outputPath": "/home/tera/Documents/Projects/codewars-stuffs/ones_and_zeros/kata-testing/Solution/obj/",
+      "projectPath": "/home/rabbit/Documents/Projects/codewars/ones_and_zeros/kata-testing/Solution/Solution.csproj",
+      "packagesPath": "/home/rabbit/.nuget/packages/",
+      "outputPath": "/home/rabbit/Documents/Projects/codewars/ones_and_zeros/kata-testing/Solution/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/tera/.nuget/NuGet/NuGet.Config"
+        "/home/rabbit/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
